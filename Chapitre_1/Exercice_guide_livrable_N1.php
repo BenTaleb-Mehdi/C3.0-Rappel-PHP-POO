@@ -1,6 +1,4 @@
 # But : écrire une fonction buildArticle(array $row): array qui renvoie :
-
-
 <?php
 
 #(Corrigé indicatif)
